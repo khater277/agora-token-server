@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2"
+  }
+}
